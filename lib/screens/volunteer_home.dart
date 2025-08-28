@@ -1,5 +1,6 @@
+import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'guidelines_screen.dart';
+import './guidelines_screen.dart';
 import 'call_screen.dart';
 import 'settings_screen.dart';
 import '../widgets/custom_button.dart';
