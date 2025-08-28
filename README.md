@@ -286,5 +286,4 @@ For support, feature requests, or bug reports, please create an issue in the rep
 
 - The Bible says: This is pure and undefiled religion in the sight of our God and Father, to visit orphans and widows in their distress, and to keep oneself unstained by the world. (True religion is to help those in need, as well as keeping yourself Holy.)
 - Inspired by the mission to make technology more accessible
-- Built with consideration for the Nigerian accessibility community
-- Designed with input from visually impaired users and volunteers
+- Built with consideration for the Nigerian accessibility community.
