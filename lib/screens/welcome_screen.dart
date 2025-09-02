@@ -17,7 +17,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
   final Map<String, Map<String, String>> _translations = {
     'English': {
       'appTitle': 'Bethsaida',
-      'welcome': 'See through someone else\'s eyes',
+      'welcome': 'Be the light for someone else',
       'roleSelection': 'How would you like to help?',
       'blindUser': 'I need help seeing',
       'volunteer': 'I want to help someone see',
@@ -25,7 +25,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
     },
     'Yoruba': {
       'appTitle': 'Bethsaida',
-      'welcome': 'Ri nipa oju eniyan miran',
+      'welcome': 'Je imole fun elomiran',
       'roleSelection': 'Bawo ni o fe se ranlo?',
       'blindUser': 'Mo nilo iranlo lati ri',
       'volunteer': 'Mo fe ran eniyan lo lati ri',
